@@ -39,12 +39,12 @@ Mass_Email(TheExcelFile, username, password, PdFName, PdFaddress,  ExlName)
 # print(sheet1['A{}'.format(68)].value)
 
 #%%%%%%Functions
-username='Shabnam.Khirdastan@gmail.com' # str(input('Your sername:'))
+username='****@gmail.com' # str(input('Your sername:'))
 password='@Fkl242019'#str(input('your password:'))
-NameApp='Shabnam Khirdastan'
+NameApp='Masoud Bahari'
 ExlName='ShabnamList.xlsx'
-PdFName='Shabnam_Khirdastan.pdf'
-PdFName2="Shabnam_Khirdastan.pdf"
+PdFName='Masoud Bahari.pdf'
+PdFName2="Masoud Bahari.pdf"
 #--------------------------------------------------------------------
 import smtplib, ssl
 import openpyxl as xl
@@ -92,13 +92,7 @@ for i in range(2, len(sheet1['A'])+1):
    It has been a while since my query about PhD studies under your supervision and I have not heard back from you yet.
    Owing to my deep interest in your works, I would be very thankful if you could inform me about any possibilities to work under your supervision in your respected group.\n
    Cheers,
-   Shabnam
-   -------------------------------------------------
-   Shabnam Khirdastan,
-   MBA in human resource management,
-   Payam-E-Nour University of Tehran, Iran (https://www.pnu.ac.ir/)
-   Tel: +39 379 295 1958, +98 912 619 9584
-   Email: shabnam.khirdastan@gmail.com
+   Masoud
    Residential address: Via Francesco Ierace 3, 00133, Rome, Italy.'''.format(sheet1['B{}'.format(i)].value)
 
        part = MIMEBase('application', "octet-stream")
