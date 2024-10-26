@@ -1,0 +1,19 @@
+References - Anschreibenhilfer 
+Available Re fer ences: 
+Visual Basic For Applicatons 
+Microsoft Word 16.0 Object Library 
+[V] OLE Automation 
+Normal 
+Microsoft Offce 16.0 Object Library 
+Microsoft Forms 2.0 Object Library 
+Adobe Acrobat 10.0 Type Library 
+Microsoft HTML 0b Ect Librar 
+Project 
+AccessibilityCpIAdmin 1.0 Type Library 
+Acrobat Access 3.0 Type Library 
+Acrobat Distiller 
+Arrnhät 
+Microsoft Internet Controls 
+Location: C: W/indovvs\System32Veframe.dII 
+Language: Standard 
+Priority 
