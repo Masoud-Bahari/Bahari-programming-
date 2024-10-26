@@ -1,11 +1,13 @@
 # Bahari Programming
 
 ## Overview
-Welcome to my repository! This project showcases my skills in **C++, MATLAB, Mathematica, and Python**, 
+Welcome to my repository! This project showcases my skills in **C++, Visual Basic for Application (VBA),  MATLAB, Mathematica, and Python**, 
 demonstrating my ability to solve **complex problems in data analysis, mathematical modeling, and 
 algorithm development**. Each programming language has been selected for its unique strengths in addressing specific tasks.
 
 ## Codes
+### VBA
+This folder contains VBA codes that assist authors in creating a unique job application letter. The codes include functions for translating the letter into German and English, creating root folders, and saving and exporting the letter. Additionally, it allows for the modification of predefined RichText variables inside the document and other related tasks. Once the code is executed, it displays a form that collects data from the user and performs predefined tasks in a Microsoft Word document. The main codes are stored in file "TheMainForm.frm"
 
 ### MATLAB
 This repository includes three MATLAB scripts developed to calculate the energy of 3D unconventional superconductors. 
