@@ -6,8 +6,6 @@ demonstrating my ability to solve **complex problems in data analysis, mathemati
 algorithm development**. Each programming language has been selected for its unique strengths in addressing specific tasks.
 
 ## Codes
-### VBA
-This folder contains VBA codes that assist authors in creating a unique job application letter. The codes include functions for translating the letter into German and English, creating root folders, and saving and exporting the letter. Additionally, it allows for modifying predefined RichText variables inside the document and other related tasks. Once the code is executed, it displays a form that collects data from the user and performs predefined functions in a Microsoft Word document. The main codes are stored in the file "TheMainForm.frm"
 
 ### MATLAB
 This repository includes three MATLAB scripts developed to calculate the energy of 3D unconventional superconductors. 
@@ -33,6 +31,9 @@ I initially learned programming with C++. Here are two examples I developed that
 
 ### Python
 This section contains a script for email automation. The Python code is capable of sending bulk emails automatically and saves the recipient information, date, time, and body text into a spreadsheet.
+
+### VBA
+This folder contains VBA codes that assist authors in creating a unique job application letter. The codes include functions for translating the letter into German and English, creating root folders, and saving and exporting the letter. Additionally, it allows for modifying predefined RichText variables inside the document and other related tasks. Once the code is executed, it displays a form that collects data from the user and performs predefined functions in a Microsoft Word document. The main codes are stored in the file "TheMainForm.frm"
 
 ## Conclusion
 Thank you for visiting my repository! I welcome any feedback or questions regarding the codes or their applications. Please feel free to reach out via my contact information below.
